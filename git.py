@@ -1,3 +1,5 @@
-print ("dddd")
-print ("fgggfsfswf")
-print ("fdvgbs")
+print("dddd")
+print("fwf")
+print("x")
+print("fgggfsfswf")
+print("fdvgbs")
