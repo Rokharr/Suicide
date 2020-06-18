@@ -1,2 +1,3 @@
 print ("dddd")
-print ("fgggfsfswf")
+print ("fwf")
+print ("x")
